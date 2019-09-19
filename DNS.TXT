@@ -1,0 +1,14 @@
+Domain Name: cpdasoft.com
+ip:47.105.66.110
+Registry Domain ID: 1677797673_DOMAIN_COM-VRSN
+Registrar WHOIS Server: grs-whois.hichina.com
+Registrar URL: http://whois.aliyun.com
+Updated Date: 2018-09-11T06:10:56Z
+Creation Date: 2011-09-19T06:35:34Z
+Registrar Registration Expiration Date: 2020-09-19T06:35:34Z
+Registrar: Alibaba Cloud Computing (Beijing) Co., Ltd.
+Registrar IANA ID: 420
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant City: 
+Registrant State/Province: chong qing
